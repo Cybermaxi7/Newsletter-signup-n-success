@@ -1,16 +1,15 @@
 # Frontend Mentor - Newsletter sign-up form with success message solution
 
-This is a solution to the [Newsletter sign-up form with success message challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Newsletter sign-up form with success message challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+- [The challenge](#the-challenge)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
 - [Author](#author)
-
 
 ### The challenge
 
@@ -30,14 +29,10 @@ Users should be able to:
 ![](../build/static/images/two.png)
 ![](../build/static/images/three.png)
 
-
-
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Solution URL: [Click here](https://your-solution-url.com)
+- Live Site URL: [Click here](https://newsletter-signup-n-success.vercel.app/)
 
 ### Built with
 
@@ -48,17 +43,13 @@ Users should be able to:
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 
-
-
 ### What I learned
+
 I learnt how to control form inputs with the useState hook
 I also learnt some basic designs
-
 
 ## Author
 
 - Website - [Agbe Moses](https://cybermaxi.vercel.app)
 - Frontend Mentor - [@Cybermaxi7](https://www.frontendmentor.io/profile/cybermaxi7)
 - Twitter - [@Cybermaxi7](https://www.twitter.com/cybermaxi7)
-
-
